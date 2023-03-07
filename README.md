@@ -10,6 +10,7 @@ O termo "Scrum" foi inicialmente usado no rugby, um esporte em que os jogadores 
 
 # O Manifesto Ágil
 - Os 4 Valores: 
+
   1.Indivíduos e interações mais que processos e ferramentas
   2.Software em funcionamento mais que documentação abrangente
   3.Colaboração com o cliente mais que negociação de contratos
