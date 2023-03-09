@@ -51,7 +51,7 @@ O termo "Scrum" foi inicialmente usado no rugby, um esporte em que os jogadores 
 ![image](https://user-images.githubusercontent.com/106775652/223494345-4e574f1f-81b1-433f-b7b0-ae8e33a71078.png)
 
 # Prova PSM I
-a
+
 
 # Links
 https://agilemanifesto.org/iso/ptbr/manifesto.html
