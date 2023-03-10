@@ -13,6 +13,7 @@ O termo "Scrum" foi inicialmente usado no rugby, um esporte em que os jogadores 
   - Reuniões informais, de feedback no Sprint Review
   - Todos iguais, não há líder técnico
   - Não é uma metodologia! Não tem metodos ou um plano a se seguir, o Scrum é um processo empírico, é um framework
+  
 # O Manifesto Ágil
 
   1.Indivíduos e interações mais que processos e ferramentas
@@ -65,8 +66,9 @@ O termo "Scrum" foi inicialmente usado no rugby, um esporte em que os jogadores 
   
 ![image](https://user-images.githubusercontent.com/106775652/223494345-4e574f1f-81b1-433f-b7b0-ae8e33a71078.png)
 
+# Link Miro
+https://miro.com/welcomeonboard/Rm5hcFhxcWJLVUNtdndoME5RZTZ5cWxUT2xPZk1CZ1hES1VEWFBtekpVeWZOY3RHV1ZnUmREWWdaT1lzYkhVTnwzNDU4NzY0NTQwOTIzNjc1NTgwfDI=?share_link_id=179604562582
 
-
-# Links
+# Links úteis
 https://agilemanifesto.org/iso/ptbr/manifesto.html
 https://www.scrum.org/
