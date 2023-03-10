@@ -14,7 +14,6 @@ O termo "Scrum" foi inicialmente usado no rugby, um esporte em que os jogadores 
   - Todos iguais, não há líder técnico
   - Não é uma metodologia! Não tem metodos ou um plano a se seguir, o Scrum é um processo empírico, é um framework
 # O Manifesto Ágil
-- Os 4 Valores: 
 
   1.Indivíduos e interações mais que processos e ferramentas
   
@@ -34,6 +33,19 @@ O termo "Scrum" foi inicialmente usado no rugby, um esporte em que os jogadores 
   - Trabalhar em um ritmo sustentável
   - Atender às necessidades do cliente
   - Foco na qualidade do produto e na melhoria contínua.
+
+
+- Os valores do Scrum
+
+ 1.Comprometimento (Commitment): A equipe Scrum deve estar comprometida com a entrega de valor ao cliente, com a conclusão das tarefas e com o alcance dos objetivos do Sprint.
+
+ 2.Coragem (Courage): A equipe Scrum deve ser corajosa o suficiente para enfrentar desafios e tomar decisões difíceis. A coragem também significa que a equipe deve estar disposta a aprender com os erros e a experimentar novas abordagens.
+
+ 3.Foco (Focus): A equipe Scrum deve estar focada no trabalho que está sendo realizado durante o Sprint e nos objetivos que estão sendo perseguidos. Isso significa que a equipe deve evitar distrações e manter o foco no que é mais importante.
+
+ 4.Respeito (Respect): A equipe Scrum deve respeitar os outros membros da equipe, bem como as opiniões, habilidades e conhecimentos de cada um. Isso ajuda a promover um ambiente de colaboração e confiança mútua.
+
+ 5.Transparência (Transparency): A equipe Scrum deve ser transparente em relação ao trabalho que está sendo realizado, aos progressos que estão sendo feitos e aos obstáculos que estão sendo encontrados. A transparência ajuda a promover a confiança e a colaboração dentro da equipe.
   
 - Os pilares do Scrum:
   1.Transparência: significa que todas as informações relevantes sobre o projeto devem ser claras e compartilhadas entre todas as pessoas envolvidas. Isso inclui os          objetivos do projeto, o progresso, as métricas, os impedimentos e as decisões tomadas.
